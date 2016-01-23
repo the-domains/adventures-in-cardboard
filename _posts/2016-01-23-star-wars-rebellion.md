@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-23T13:31:14.513Z'
-dateModified: '2016-01-23T13:29:56.118Z'
+datePublished: '2016-01-23T14:55:45.872Z'
+dateModified: '2016-01-23T14:55:40.364Z'
 title: 'Star Wars: Rebellion'
 author: []
 sourcePath: _posts/2016-01-23-star-wars-rebellion.md
