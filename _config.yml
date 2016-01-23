@@ -1,6 +1,6 @@
 name: Adventures in Cardboard
 favicon: null
-layout_spectrum: 0.62712
+layout_spectrum: 0
 typography_spectrum: 0.34955
 title: Deathbunny Plays Games
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.1875
   lightness: 0.25
   saturation: 0.75
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.25
 purpose: []
