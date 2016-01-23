@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-23T13:12:44.086Z'
-dateModified: '2016-01-23T13:12:05.299Z'
+datePublished: '2016-01-23T13:19:17.499Z'
+dateModified: '2016-01-23T13:19:14.808Z'
 title: 'Star Wars: Rebellion'
 author: []
 authors: []
