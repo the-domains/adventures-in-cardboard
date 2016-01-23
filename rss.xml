@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Adventures in Cardboard]]></title>
+        <description><![CDATA[Adventures in Cardboard]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Jan 2016 13:12:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Star Wars: Rebellion]]></title>
+            <description><![CDATA[<article><h1>Star Wars: Rebellion</h1><p>I just watched the first review of Star Wars: Rebellion and it totally confirmed the opinion I had first formed after hearing about it on the Dicetower Podcast. This seems to be an amazing, epic, cinematic game that captures everything from the original movie trilogy in the same way that War of the Rings captured that trilogy. I can't wait to get my hands on it and play it to death.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ccb6d05-b0db-4bea-95ea-1e2bafe93223.png"></article>]]></description>
+            <link>undefinedstar-wars-rebellion/index.html</link>
+            <guid isPermaLink="false">db751456-ea3d-4494-acd3-5c0b7a0aa551</guid>
+            <pubDate>Sat, 23 Jan 2016 13:12:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
