@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-23T16:24:58.438Z'
+datePublished: '2016-01-23T16:24:58.442Z'
 dateModified: '2016-01-23T16:24:54.641Z'
 title: 'Star Wars: Rebellion'
 author: []
