@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://boardgamegeek.com/image/2737530/star-wars-rebellion'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-23T21:51:44.658Z'
-dateModified: '2016-01-23T21:51:39.671Z'
+datePublished: '2016-01-24T13:38:18.434Z'
+dateModified: '2016-01-24T09:31:02.944Z'
 title: 'Star Wars: Rebellion'
 author: []
 sourcePath: _posts/2016-01-23-star-wars-rebellion.md
