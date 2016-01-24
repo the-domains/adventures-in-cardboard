@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T16:48:33.605Z'
-dateModified: '2016-01-24T16:47:52.682Z'
+datePublished: '2016-01-24T16:50:38.588Z'
+dateModified: '2016-01-24T16:50:35.661Z'
 title: 'Star Wars: Rebellion'
 author: []
 sourcePath: _posts/2016-01-23-star-wars-rebellion.md
@@ -22,7 +22,7 @@ publisher:
 _type: MediaObject
 
 ---
-![Image provided by the publisher](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8d32a3ea6b86406ebd70580fa916359ac811c2c.png)
+![Image provided by the publisher](https://s3-us-west-2.amazonaws.com/the-grid-img/p/062618fcd738aa3a175e62c4f275aebf5c23657c.png)
 
 I just watched the [first review][0] of [Star Wars: Rebellion][1] and it totally confirmed the opinion I had first formed after hearing about it on the [Shut Up And Sit Down Podcast][2]. This seems to be an amazing, epic, cinematic game that captures everything from the original movie trilogy in the same way that [War of the Rings][3] captured that trilogy. I can't wait to get my hands on it and play it to death.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eda36493-92da-4c0d-a6cf-39b9a7b11db8.png)
