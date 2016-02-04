@@ -1,4 +1,19 @@
-analytics: {}
+name: Adventures in Cardboard
+favicon: null
+layout_spectrum: 0.18094
+typography_spectrum: 0.25202
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#050505'
@@ -7,12 +22,7 @@ color:
     - '#826603'
     - '#f8e968'
   brandStrength: 0
-  lightness: 0
+  lightness: 0.75
+  saturation: 0.5
   rhythmicContrast: 0.25
-  saturation: 0.197072
-cta: {}
-layout_spectrum: 0.18094
-name: Adventures in Cardboard
-opengraph: {}
 purpose: []
-typography_spectrum: 0.25202
