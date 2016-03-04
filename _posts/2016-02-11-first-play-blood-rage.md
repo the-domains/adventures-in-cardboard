@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Playing through a solo round of Viking Fury
-datePublished: '2016-02-11T11:00:05.465Z'
-dateModified: '2016-02-11T10:59:47.878Z'
+datePublished: '2016-03-04T19:47:19.202Z'
+dateModified: '2016-03-04T19:46:49.986Z'
 title: 'First Play: Blood Rage'
 author: []
 authors: []
